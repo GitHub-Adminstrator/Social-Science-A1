@@ -1,3 +1,5 @@
 *.csv
 *.pkl
 *.pickle
+
+!abstracts_tokenized.pickle
